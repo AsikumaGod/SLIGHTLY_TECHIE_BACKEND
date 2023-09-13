@@ -1,5 +1,4 @@
-Assignment - Due on September 21, 2023
-When the user enters \*123# it should display the menu:
+When the user enters \*123# it display the menu:
 
 - Check balance
 - Send money
